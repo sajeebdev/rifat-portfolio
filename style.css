@@ -569,6 +569,51 @@ img .img2 {
 
 .contact .contact-content .left .icons {
   margin: 10px 0;
+  display: flex;
+  margin-top: 20px;
+}
+/* -----------------icons-------------------------- */
+.fa {
+  padding: 15px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-right: 35px;
+}
+.fa:hover {
+  opacity: 0.7;
+  background: #0084ff;
+}
+/* Facebook */
+.fa-facebook {
+  background: #3b5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #0d41ff;
+  color: white;
+}
+
+/* Linkedin */
+.fa-linkedin {
+  background: #1a01f4;
+  color: rgb(64, 67, 97);
+}
+
+/* Github */
+.fa-github {
+  background: #1a1922;
+  color: rgb(127, 133, 157);
+  color: rgb(235, 237, 245);
+}
+
+/* Pinterest */
+.fa-pinterest {
+  background: #d21d48;
 }
 
 .contact .contact-content .row {
